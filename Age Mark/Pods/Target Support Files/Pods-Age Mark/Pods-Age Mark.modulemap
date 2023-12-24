@@ -1,0 +1,6 @@
+module Pods_Age_Mark {
+  umbrella header "Pods-Age Mark-umbrella.h"
+
+  export *
+  module * { export * }
+}

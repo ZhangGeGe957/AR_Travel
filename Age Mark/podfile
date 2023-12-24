@@ -1,0 +1,8 @@
+platform :ios, '7.0' 
+target 'Age Mark' do
+  pod 'SnapKit'
+  pod 'SketchfabSDK'
+  pod 'AMapSearch'
+  pod 'AMap2DMap'
+  Pod 'AMapLocation'
+end
