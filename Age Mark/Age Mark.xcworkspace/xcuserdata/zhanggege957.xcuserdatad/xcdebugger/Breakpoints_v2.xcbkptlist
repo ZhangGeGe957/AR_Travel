@@ -3,4 +3,22 @@
    uuid = "06AA571D-126B-44ED-9F12-BFB6351874C0"
    type = "0"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DA4F47E-AF94-4561-8BFA-A915D8F1C602"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Desktop/&#x6bd5;&#x4e1a;&#x8bbe;&#x8ba1;/Age Mark/Age Mark/Community/Controller/CommunityDetailsPageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "itemInfo"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
